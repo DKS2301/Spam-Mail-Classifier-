@@ -3,5 +3,3 @@ nltk
 scikit-learn
 pandas
 numpy
-re
-pickle-mixin
