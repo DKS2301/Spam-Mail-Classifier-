@@ -43,10 +43,6 @@ Spam-Mail-Classifier/
 2. Vectorization: Converts text into numerical features using TF-IDF.
 3. Model Prediction: Uses a trained machine learning model to classify the message.
 
-## Demo
-
-Provide a screenshot of the application interface here.
-
 ## Contributing
 
 Feel free to fork this repository and submit pull requests.
