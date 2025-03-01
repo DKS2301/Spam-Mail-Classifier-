@@ -52,7 +52,3 @@ Feel free to fork this repository and submit pull requests.
 This project is licensed under the MIT License.
 
 Built using Python, Scikit-Learn, and Streamlit.
-
-```
-
-```
